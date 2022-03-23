@@ -9,6 +9,7 @@ body {
     padding: 20px;
     margin-top: auto;
     margin-bottom: auto;
+    color: rgb(146, 132, 87)
     
   
 
@@ -51,13 +52,14 @@ body {
 
   
   h1, h2 {
-    font-family: Impact, serif;
+    font-family: Georgia, serif;
   }
   
   .item p {
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 18px;
+    font-family: Roboto, arial, helvetica;
   }
   
   
@@ -71,6 +73,7 @@ body {
   footer {
     font-size: 14px;
     font-family: Roboto, arial, helvetica;
+    
   }
   
   .address {
@@ -78,14 +81,14 @@ body {
   }
   
   a {
-    color: black;
+    color: rgb(124, 112, 72);
     font-size: 20px;
     text-decoration: none;
     font-weight:bold;
   }
   
   a:visited {
-    color: black;
+    color: rgb(124, 112, 72);
   }
   
   a:hover {
